@@ -1,10 +1,10 @@
 [
    {
-      "Repo":"ML-python-sklearn-knc-cpu-service",
+      "Repo":"ML-python-sklearn-lrc-cpu-service",
       "Tail":"-service"
    },
    {
-      "Repo":"ML-python-sklearn-knc-cpu-training",
+      "Repo":"ML-python-sklearn-lrc-cpu-training",
       "Tail":"-training"
    }
 ]
